@@ -1,2 +1,4 @@
 I just started working with GitHub. 
 First trial
+
+Second commit to test the insights of the text file
